@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "569080179706",
-    "project_id": "legends-pocket",
-    "storage_bucket": "legends-pocket.appspot.com"
+    "project_number": "138611011847",
+    "project_id": "mobile-project-1-dc704",
+    "storage_bucket": "mobile-project-1-dc704.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:569080179706:android:585797c2a1d0fa969cd243",
+        "mobilesdk_app_id": "1:138611011847:android:85702dac931cacf1dc15a2",
         "android_client_info": {
           "package_name": "com.example.legendspocket"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyD7rm2ZeLFWhZIzGAy-FpqwIoCZ_chjVyQ"
+          "current_key": "AIzaSyCDO4zRwA3TPjTGwheHpgF80q4nBnr3uAU"
         }
       ],
       "services": {
